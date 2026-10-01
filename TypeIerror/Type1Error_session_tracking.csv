@@ -1,0 +1,5 @@
+"Session","SessionID","DataSize","Replications","OutputFolder","Status","StartTime"
+"Session1","60058102","I=200,J=50",1000,"Type1Error_results/","Running","2026-02-19 09:43:29.067145"
+"Session2","6E72C3B3","I=500,J=40",1000,"Type1Error_results/","Running","2026-02-19 09:43:29.067145"
+"Session3","1A29051E","I=800,J=50",1000,"Type1Error_results/","Running","2026-02-19 09:43:29.067145"
+"Session4","8EB6E3D8","I=2000,J=40",1000,"Type1Error_results/","Running","2026-02-19 09:43:29.067145"
