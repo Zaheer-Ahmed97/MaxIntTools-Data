@@ -1,0 +1,2 @@
+"Session","JobID","ScriptFile","DataSize","TrueStructure","Replications","Seed","OutputFolder","Status","StartTime"
+"Session5","7CAF39F6","Power_session5_I500_J40_trueP3Q3_analP2Q2.R","I=500,J=40","DataGen=P3Q3 | Analysis=P4Q4",1000,5005,"~/Documents/powerUnderSpecification//power_results_trueP3Q3_analP4Q4","Running","2026-09-07 15:41:57.279391"
